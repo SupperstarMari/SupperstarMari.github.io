@@ -1,6 +1,6 @@
 body {
-    background: rgb(125, 198, 205);
-    color: rgb(45, 45, 45);
+    background: rgb(72, 17, 71);
+    color: rgb(31, 7, 7);
     padding: 10px;
     font-family: arial;
 }
@@ -11,38 +11,38 @@ body {
 
 /* navigation menu */
 nav {
-    background: black;
+    background: rgb(1, 0, 0);
     margin: 0 auto;
     margin-bottom: 20px;
     display: flex;
     padding: 10px;
-    border-color: #fff;
+    border-color: #f4f4f4;
     border-radius: 15px;
 }
 h1 {
     display: flex;
     align-items: center;
-    color: tan;
+    color: rgb(238, 183, 236);
     flex: 1;
     margin: 0;
 }
 #nav-ul {
     list-style-image: none;
-    color: tan;
+    color: rgb(10, 6, 0);
 }
 .nav-li {
     display: inline-block;
     padding: 0 10px;
-    color: tan;
+    color: rgb(0, 0, 0);
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: #e8b1e0;
 }
 
 /* main container area beneath menu */
 main {
-    background: black;
+    background: rgb(222, 170, 208);
     display: flex;
 }
 .sidebar {
@@ -59,12 +59,12 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px silver ridge;
+    border: 4px, ridge, rgb(18, 4, 4);
     padding: 8px;
 }
 h2, h3 {
     margin: 0px;
-    color: tan;
+    color: rgb(0, 0, 0);
 }
 
 img {
@@ -72,10 +72,10 @@ img {
     max-height: 200px;
 }
 p { 
-    color: tan;
+    color: rgb(8, 7, 7);
 }
 li{
-    color:tan;
+    color:rgb(1, 1, 1);
 }
 
 .content h1 {
