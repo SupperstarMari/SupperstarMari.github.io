@@ -66,7 +66,7 @@ $(function () {
 
     createCannon("left", 400, 1000); // cannon on left wall, 600px down, shooting once per second
     createCannon("left", 150, 1000); // cannon on left wall, 600px down, shooting once per second
-    createCannon("right", 720, 1000); // cannon on left wall, 600px down, shooting once per second
+    createCannon("right", 720, 1000); // cannon on left wall, 500px down, shooting once per second
     createCannon("top", 350, 1000); // cannon on left wall, 600px down, shooting once per second
 
     /////////////////////////////////////////////////
