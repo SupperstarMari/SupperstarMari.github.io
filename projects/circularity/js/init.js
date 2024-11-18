@@ -67,6 +67,7 @@ var init = function (window) {
             physikz.updatePosition(circles[i]);
             game.checkCirclePosition(circles[i]);
         }
+      }
             
     
         /* 
@@ -117,5 +118,5 @@ if((typeof process !== 'undefined') &&
     (typeof process.versions.node !== 'undefined')) {
     // here, export any references you need for tests //
     module.exports = init;
-}
+    
 }
